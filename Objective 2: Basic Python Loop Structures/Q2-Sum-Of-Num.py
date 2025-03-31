@@ -11,3 +11,6 @@ numbers = [10, 20, 30, 40, 50]  # List of numbers
 total_sum = 0
 
 # Use a for loop to iterate through the numbers
+
+for numbers in range(): # ??
+    total_sum = numbers #??
