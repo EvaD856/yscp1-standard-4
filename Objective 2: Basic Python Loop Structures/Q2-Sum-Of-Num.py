@@ -4,13 +4,12 @@ Description: Write a program that takes a list of numbers and calculates the sum
 '''
 
 # This program will calculate the sum of numbers in a list
-
 numbers = [10, 20, 30, 40, 50]  # List of numbers
 
 # Initialize a variable to hold the sum
 total_sum = 0
 
 # Use a for loop to iterate through the numbers
-
-for numbers in range(): # ??
-    total_sum = numbers #??
+for number in numbers:
+    total_sum += number
+print(total_sum)
